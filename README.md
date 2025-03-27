@@ -15,8 +15,7 @@ It should also provide comparisons of performance according to year as well as c
 # Snapshot of Dashboard (Power BI Desktop)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
-
+![Image](https://github.com/user-attachments/assets/00500d9f-a15b-4cae-937e-9e8a0c14b5a2)
 # Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
