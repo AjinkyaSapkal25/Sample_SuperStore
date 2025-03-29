@@ -103,11 +103,11 @@ Following inferences can be drawn from the dashboard;
          
 ### [9] Profit Wise Category
 
-9.1) Technology is havig profit around 1,45,545.
+9.1) Technology is having profit around 1,45,545.
 
-9.2) Office Supplies is havig profit around 1,22,490.
+9.2) Office Supplies is having profit around 1,22,490.
 
-9.3) Furniture is havig profit around 18,451.
+9.3) Furniture is having profit around 18,451.
        
        thus, technology is having highest and furniture is having less profit.
 
